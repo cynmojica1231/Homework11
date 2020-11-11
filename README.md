@@ -40,12 +40,15 @@ The application gives yout the following options:
 
 - [Node.js](https://nodejs.org/en/) - JavaScript runtime environment
 - [MySQLWorkbench](https://www.mysql.com/products/workbench/) - Visual database design tool
-  ### Dependencies
-  ***
-  - [inquirer](https://www.npmjs.com/package/inquirer) - For the CLI user interface. This will prompt user within the CLI for employee information.
-  - [console.table](https://www.npmjs.com/package/console.table) - Used to print MySQL into tables to the console.
-  - [mysql](https://www.npmjs.com/package/mysql) - Used to connect to the MySQL database and perform queries
-  - [promise-mysql](https://www.npmjs.com/package/promise-mysql) - Used to create promises from MySQL queries
+
+### Dependencies
+
+---
+
+- [inquirer](https://www.npmjs.com/package/inquirer) - For the CLI user interface. This will prompt user within the CLI for employee information.
+- [console.table](https://www.npmjs.com/package/console.table) - Used to print MySQL into tables to the console.
+- [mysql](https://www.npmjs.com/package/mysql) - Used to connect to the MySQL database and perform queries
+- [promise-mysql](https://www.npmjs.com/package/promise-mysql) - Used to create promises from MySQL queries
 
 ## Assignment Challenges
 
