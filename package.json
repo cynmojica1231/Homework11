@@ -8,15 +8,15 @@
     "start": "node employee-tracker.js"
   },
   "repository": {
-    "type": "git",
+    "type": "git+https://github.com/cynmojica1231/Homework11",
     "url": " "
   },
   "author": "Cynthia Mojica",
   "license": "ISC",
   "bugs": {
-    "url": " "
+    "url": "https://github.com/cynmojica1231/Homework11 "
   },
-  "homepage": " ",
+  "homepage": "https://github.com/cynmojica1231/Homework11 ",
   "dependencies": {
     "console.table": "^0.10.0",
     "inquirer": "^7.0.1",
